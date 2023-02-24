@@ -4,3 +4,4 @@
 - numpy 
 - skimage
 - import cv2
+<h3>Insert image name with jpg format and run to see the Logarith and Gamma_ power low filter.</h3>
